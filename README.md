@@ -1,6 +1,8 @@
 # PC-control-via-telegram
 **💫 YOU CAN BUY THIS PROGRAM FOR $ 5 - Write to me in Telegram (I have a link to it in my profile) 🍃**
 
+
+
 **This program is written in python. It allows you to control your PC via telegram.** 
 Currently available functions:
 
