@@ -18,8 +18,3 @@ Currently available functions:
 - **Turn off the PC**
 - **Restart The PC**
 
-
-
-
-
-**💫 YOU CAN BUY THIS PROGRAM FOR $ 5 - Write to me in Telegram (I have a link to it in my profile) 🍃**
