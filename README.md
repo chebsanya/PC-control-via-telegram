@@ -1,11 +1,10 @@
 # PC-control-via-telegram
-**💫 YOU CAN BUY THIS PROGRAM FOR $ 5 - Write to me in Telegram (I have a link to it in my profile) 🍃**
-ㅤ
-ㅤ
-ㅤ
- **This program is written in python. It allows you to control your PC via telegram.** 
- Currently available functions:
+# **💫 YOU CAN BUY THIS PROGRAM FOR $ 5 - Write to me in Telegram (I have a link to it in my profile)🍃**
 
+
+**This program is written in python. It allows you to control your PC via telegram.** 
+
+Currently available functions:
 - **Screenshot** - takes a screenshot of the screen and sends it to you
 - **Sleep Timer** - turns off your PC after a set time _(it's convenient when you download the game at night)_ 
 - **Lock The Screen** - The PC goes into lock mode (where the password is entered)
